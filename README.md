@@ -1,5 +1,5 @@
 # masculinity
-R data cleanup for a Tableau Data Story [link]https://public.tableau.com/app/profile/dan.gunn/viz/MasculinitySurvey_16723617677720/Story1
+R data cleanup for a [Tableau Data Story'](https://public.tableau.com/app/profile/dan.gunn/viz/MasculinitySurvey_16723617677720/Story1)
 
 masculinity-survey.csv contains the results of a survey of 1,615 adult men conducted by SurveyMonkey in partnership with FiveThirtyEight and WNYC Studios from May 10-22, 2018. 
 
